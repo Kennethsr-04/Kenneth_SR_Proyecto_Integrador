@@ -1,4 +1,4 @@
-# Kenneth_SR_Proyecto_Integrador
+# Proyecto_Integrador
 
 Miembros del proyecto: María Pérez Goti y Kenneth Eduardo Salmerón Rodríguez 1º DAM Proyecto Integrador
 
